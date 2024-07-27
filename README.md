@@ -1,8 +1,14 @@
-# Project-15
+# Project-14
 
 fun main(){
 
 val name = "Tamer 
+
 val age = 19
-println("Hello $name your age is $age" ) or println(name + age)
+
+println("Hello $name your age is $age" ) 
+
+or
+
+ println(name + age)
 }
